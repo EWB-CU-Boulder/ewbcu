@@ -1,0 +1,57 @@
+// Styling for the masthead
+header.masthead {
+  text-align: left;
+  color: white;
+  .bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    overflow: hidden;
+  
+    &__content,
+    img{
+    //   opacity: .2;
+      height: 100%;
+      width: 100%;
+      // key: forces bg to cover entire section (not supported in IE)
+      object-fit: cover;
+    }
+  }
+  .intro-text {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    .intro-heading {
+      font-size: 100px;
+      font-weight: 500px;
+      line-height: 50px;
+      margin-bottom: 25px;
+      @include heading-font;
+    }
+  }
+}
+@media(min-width:768px) {
+  header.masthead {
+    .intro-text {
+      padding-top: 300px;
+      padding-bottom: 0px;
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 600;
+        line-height: normal;
+        margin-bottom: -50px;
+        @include heading-font;
+      }
+      .intro-heading2 {
+        font-size: 75px;
+        font-weight: 600;
+        line-height: normal;
+        margin-bottom: -50px;
+        margin-left: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}

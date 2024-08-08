@@ -1,0 +1,26 @@
+// Styling for the contact section
+section#contact {
+  padding: 0px;
+  padding-bottom: 40px;
+  background-color: #243274;
+  color: white;
+  padding-left: 5%;
+  .section-heading {
+    color: white;
+    white-space: nowrap;
+    margin-bottom: 24px;
+    margin-top: 40px;
+    font-weight: 900px;
+    font-size: 22px;
+  }
+  .directory-group {
+    color: white;
+    margin-bottom: 5px;
+    font-weight: 300px;
+    font-size: 12px;
+    &:hover {
+      text-decoration: none;
+      color: #8A8D4A;
+    }
+  }
+}

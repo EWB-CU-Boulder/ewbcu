@@ -1,0 +1,18 @@
+nav:
+  - text: Ecuador
+    #section: services
+
+  - text: Rwanda
+    section: Rwanda-Project
+    
+  - text: Nepal
+    section: Nepal-Project
+
+  - text: Pulchowk
+    #section: team
+
+  - text: Get Involved
+    section: How-to-Join
+
+  - text: Support
+    url: 

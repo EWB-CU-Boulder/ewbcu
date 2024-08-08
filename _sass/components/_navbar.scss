@@ -1,0 +1,93 @@
+// Styling for the navbar
+#mainNav {
+  background-color: #243274;
+  .navbar-toggler {
+    font-size: 12px;
+    right: 0;
+    padding: 13px;
+    text-transform: uppercase;
+    color: white;
+    border: 0;
+    background-color: #243274;
+    @include heading-font;
+  }
+  .navbar-brand {
+    color: #243274;
+    @include script-font;
+    &.active,
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken(#243274, 10%);
+    }
+    .logo {    
+      height: 40%;
+      width: 40%;}
+  }
+  .navbar-nav {
+    .nav-item {
+      .nav-link {
+        font-size: 90%;
+        font-weight: 500;
+        padding: .75em;
+        letter-spacing: 1px;
+        color: white;
+        @include heading-font;
+        &.active,
+        &:hover {
+          color: #8A8D4A;
+        }
+      }
+    }
+  }
+}
+@media(min-width:992px) {
+  #mainNav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
+    -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
+    transition: padding-top 0.3s, padding-bottom 0.3s;
+    border: none;
+    background-color: transparent;
+    .navbar-brand {
+      font-size: 1.75em;
+      -webkit-transition: all 0.3s;
+      -moz-transition: all 0.3s;
+      transition: all 0.3s;
+      .logo {    
+        height: 45%;
+        width: 45%;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+      }
+    }
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          white-space: nowrap;
+        }
+      }
+    }
+    &.navbar-shrink {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background-color: #243274;
+    .navbar-nav {
+      margin-top: 14px;
+      .nav-item {
+        .nav-link {
+          white-space: nowrap;
+        }
+      }
+    }
+      .navbar-brand {
+        .logo {    
+          height: 25%;
+          width: 25%;
+        }
+      }
+    }
+  }
+}

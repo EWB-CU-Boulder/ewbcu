@@ -1,0 +1,46 @@
+
+header.joinhead {
+    text-align: right;
+    color: white;
+    background-image: url("../../assets/img/family_test.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    
+    .joinhead-text {
+      padding-top: 100px;
+      padding-bottom: 50px;
+      .join-heading {
+        font-size: 100px;
+        font-weight: 500px;
+        line-height: 50px;
+        margin-bottom: 25px;
+        @include heading-font;
+      }
+    }
+  }
+  @media(min-width:768px) {
+    header.joinhead {
+      padding:34px;
+      .joinhead-text {
+        padding-top: 200px;
+        padding-bottom: 100px;
+        .join-heading {
+          font-size: 75px;
+          font-weight: 600;
+          line-height: normal;
+          margin-bottom: 0;
+          @include heading-font;
+        }
+        .join-heading2 {
+          font-size: 38px;
+          font-weight: 600;
+          line-height: normal;
+          margin-bottom: 0;
+          margin-left: 0;
+          @include heading-font;
+        }
+      }
+    }
+  }

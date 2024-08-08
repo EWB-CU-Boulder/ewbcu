@@ -1,0 +1,79 @@
+team:
+    title: "PROJECT TEAM"
+    text: "Meet the EWB CU Rwanda Team!"
+    section: team
+    people:
+      - name: "Molly Sickler"
+        pronouns: (she/her)
+        role: "Project Manager"
+        image: assets/img/rwandateam/Molly_Sickler.JPG
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        bio: "Project Manager 2023/24. Molly is a senior in civil engineering with an emphasis in geotechnical engineering. She enjoys dancing and listening to music."
+      - name: "Cooper Kramis"
+        pronouns: (he/him)
+        role: "Lead Marketer"
+        image: assets/img/rwandateam/Cooper_Kramis.JPG
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        bio: "Project Manager 2023/24. Cooper is a junior in mechanical engineering. He currently works as PM for the Rwanda team, and has seen the team's projects develop over the years as a member of the travel team and former design lead. In his spare time, Cooper is an avid skier and backpacker."
+      - name: "Karlee Bane"
+        pronouns: (she/her)
+        role: "Lead Developer"
+        image: assets/img/rwandateam/Karlee_Bane.JPG
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        bio: "Sustainability Lead 2023/24. Karlee is an environmental engineering student minoring in Global Engineering. In the future, she'd like to focus on water resource management. She sees CU EWB's Rwanda team as not only a great way to get field experience, but also an amazing community of students passionate about tackling real-world issues in often overlooked communities around the world."
+      - name: "Parker Rosenthal"
+        pronouns: (she/her)
+        role: "Lead Marketer"
+        image: assets/img/rwandateam/Parker_Rosenthal.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        bio: "Sustainability Lead 2023/24. Parker is a sophomore in environmental engineering from Chicago, IL. She joined EWB because she is passionate about international humanitarian aid, and making renewable energy more accessible. She is also part of the CU triathlon team, and spends most of her free time hiking and climbing."
+      - name: "Isabella Mancini"
+        pronouns: (she/her)
+        role: "Lead Marketer"
+        image: assets/img/rwandateam/Isabella_Mancini.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Jake Fleishauer"
+        pronouns: (he/him)
+        role: "Lead Marketer"
+        image: assets/img/rwandateam/jake_fleishauer.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
