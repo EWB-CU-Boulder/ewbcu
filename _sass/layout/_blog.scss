@@ -1,16 +1,17 @@
-// Styling for the events section
-#events {
-  background-color: #8A8D4A;
-  .events-item {
+// Styling for the blog section
+#blog {
+  background-color: rgb(232, 232, 232);
+  padding-top: 0px;
+  .blog-item {
     right: 0;
     margin: 0 0 15px;
-    .events-link {
+    .blog-link {
       position: relative;
       display: block;
       max-width: 400px;
       margin: 0 auto;
       cursor: pointer;
-      .events-hover {
+      .blog-hover {
         position: absolute;
         width: 100%;
         height: 100%;
@@ -22,7 +23,7 @@
         &:hover {
           opacity: 1;
         }
-        .events-hover-content {
+        .blog-hover-content {
           font-size: 20px;
           position: absolute;
           top: 50%;
@@ -41,7 +42,7 @@
         }
       }
     }
-    .events-caption {
+    .blog-caption {
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
@@ -64,14 +65,14 @@
   }
 }
 @media(min-width:767px) {
-  #events {
-    .events-item {
+  #blog {
+    .blog-item {
       margin: 0 0 30px;
     }
   }
 }
 
-.events-modal {
+.blog-modal {
   .modal-dialog {
     margin: 1rem;
     max-width: 100vw;

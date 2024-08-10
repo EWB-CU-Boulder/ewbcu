@@ -1,0 +1,30 @@
+<!-- Board -->
+<section class="page-section" id="{{ site.data.ecuadorteam.team.section | default: team }}">
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">{{ site.data.ecuadorteam.team.title }}</h2>
+	  <h3 class="section-subheading text-muted">{{ site.data.ecuadorteam.team.text }}</h3>
+	</div>
+  </div>
+  <div class="row">
+  <ul id="teamHexGrid">
+	{% for person in site.data.nepalteam.team.people %}
+	<li class="teamhex">
+	  <div class="teamhexIn">
+		<a class="teamhexLink">
+			<img class="myImages" src="{{ person.image }}" alt="{{ person.name }} {{ person.pronouns }}" data-bio="{{ person.bio }}">
+		</a>
+	  </div>
+	</li>
+  	{% endfor %}
+</section>
+<!-- End team -->
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+	<span class="close">&times;</span>
+	<img class="modal-content" id="img01">
+	<div id="caption"></div>
+	<div id="biography"></div>
+  </div>

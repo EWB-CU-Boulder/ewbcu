@@ -1,0 +1,45 @@
+
+header.ecuadorhead {
+    text-align: right;
+    color: white;
+    background-image: url("../../assets/img/ecuadorteam/guacadorproject.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    
+    .ecuadorhead-text {
+      padding-top: 100px;
+      padding-bottom: 50px;
+      .ecuador-heading {
+        font-size: 100px;
+        font-weight: 500px;
+        line-height: 50px;
+        margin-bottom: 25px;
+        @include heading-font;
+      }
+    }
+  }
+  @media(min-width:768px) {
+    header.ecuadorhead {
+      .ecuadorhead-text {
+        padding-top: 400px;
+        padding-bottom: 100px;
+        .ecuador-heading {
+          font-size: 75px;
+          font-weight: 600;
+          line-height: normal;
+          margin-bottom: 0;
+          @include heading-font;
+        }
+        .ecuador-heading2 {
+          font-size: 38px;
+          font-weight: 600;
+          line-height: normal;
+          margin-bottom: 0;
+          margin-left: 0;
+          @include heading-font;
+        }
+      }
+    }
+  }
