@@ -1,13 +1,13 @@
 ---
-title: Project Name
+title: EWB CU Chapter Kickoff Meeting
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: ../assets/img/events/02-thumbnail.jpg
 alt: Keep Exploring
 permalink: test-copy-2
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: EWB at the Be Involved Fair
+  date_location: August 28, 2-6pm @ Farrand Field
   thumbnail: ../assets/img/events/02-thumbnail.jpg
 ---
 

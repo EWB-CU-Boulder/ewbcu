@@ -11,7 +11,7 @@ events:
     
 blog:
     title: "Blog & News"
-    text: "Experience the latest stories of EWB CU"
+    text: "Read the latest stories of EWB CU"
     section: blog
 
 timeline:
@@ -68,12 +68,12 @@ clients:
     
 board:
     title: "CHAPTER BOARD"
-    text: "Meet the EWB CU Chapter Wide Leadership Team!"
+    text: "Meet the EWB CU Chapter Leadership Team!"
     section: board
     people:
       - name: "Sascha Fowler"
         role: "Lead Designer"
-        image: assets\img\board\jake_board_pic.jpg
+        image: assets/img/board/Sascha.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -81,6 +81,7 @@ board:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+        bio: "President (2024); Secretary (2022). Sascha is a senior studying English and integrated design engineering with an emphasis on mechanical engineering (yes she is an absolutely insane person). She is passionate about WASH and sustainability; outside of school she enjoys music, being epic, and underwater basket weaving (this is what you get for not writing your own bio, Sascha)."
       - name: "Jake F"
         role: "Lead Marketer"
         image: assets\img\board\jake_board_pic.jpg
@@ -120,14 +121,15 @@ board:
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
-            icon: fab fa-linkedin-in          
+            icon: fab fa-linkedin-in      
+        bio: Director of Special Projects (2024).     
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
     
 footer:
-    email: "example@gmail.com"
+    email: "ewb.cu.chapter@gmail.com"
     social:
       - url: https://facebook.com
         icon: "fab fa-facebook-f"

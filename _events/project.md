@@ -1,12 +1,12 @@
 ---
-title: Project Name
+title: EWB CU Chapter Kickoff Meeting
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: ../assets/img/events/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: "Chapter Kickoff Meeting                         "
+  date_location: Time and Location TBD.
   thumbnail: ../assets/img/events/02-thumbnail.jpg
 ---
 

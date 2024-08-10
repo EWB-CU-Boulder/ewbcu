@@ -5,8 +5,8 @@ image: ../assets/img/events/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: EWB at the Engineering Fair
+  date_location: TBD
   thumbnail: ../assets/img/events/02-thumbnail.jpg
 ---
 

@@ -1,12 +1,12 @@
 team:
     title: "PROJECT TEAM"
-    text: "Meet the EWB CU Nepal Team!"
+    text: "Meet the EWB CU Nepal Project Team!"
     section: team
     people:
-      - name: "Sascha Fowler"
-        pronouns:
-        role: "Lead Designer"
-        image: assets/img/nepalteam/Xilor_Morin.png
+      - name: "Caleb Hatch"
+        pronouns: (he/him)
+        role: "Lead Marketer"
+        image: assets/img/nepalteam/Caleb_Hatch.JPG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -14,7 +14,19 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-        bio: apples
+        bio: "Project Manager (2024/25)."
+      - name: "Sascha Fowler"
+        pronouns: (she/her)
+        role: "Lead Designer"
+        image: assets/img/nepalteam/Sascha_Fowler.jpeg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        bio: "Project Manager (2023/24); Field Team (Summer 2024); Design Lead (2021/22). Sascha is a senior studying English and integrated design engineering with an emphasis on mechanical engineering (yes she is an absolutely insane person). She is passionate about WASH and sustainability; outside of school she enjoys music, being epic, and underwater basket weaving (this is what you get for not writing your own bio, Sascha)."
       - name: "Xilor Morin"
         pronouns: (they/them) 
         role: "Lead Marketer"
@@ -26,7 +38,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-        bio:  "Project Manager 2023/24. Xilor Morin is a second year in aerospace engineering and applied mathematics. Outside of school, they work on EWB and enjoy reading, writing, and learning other languages. Additionally seen in this photo is Xilor's dog, Xena."
+        bio:  "Project Manager (2023/24). Xilor Morin is a third year in aerospace engineering and applied mathematics. Outside of school, they work on EWB and enjoy reading, writing, and learning other languages. Additionally seen in this photo is Xilor's dog, Xena."
       - name: "James Perkins"
         pronouns: (he/him)
         role: "Lead Developer"
@@ -50,18 +62,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-        bio: "Treasure and Finance Lead 2023/24. Anika is a second year student studying electrical engineering. Anika enjoys crocheting, reading, and love to travel the globe."
-      - name: "Caleb Hatch"
-        pronouns: (he/him)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Caleb_Hatch.JPG
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        bio: "Treasure and Finance Lead (2023/24, 2024/25). Anika is a third year student studying electrical engineering. Anika enjoys crocheting, reading, and loves to travel the globe."
       - name: "Bonnie Brudie"
         pronouns: (she/her)
         role: "Lead Marketer"
@@ -106,7 +107,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in   
-        bio: "Field Team Winter 2022/23. Matt is an aerospace engineering graduate student interested in how space-based Earth observations can be utilized to aid developing nations prepare for and respond to environmental challenges."     
+        bio: "Field Team (Winter 2022/23). Matt is an aerospace engineering graduate student interested in how space-based Earth observations can be utilized to aid developing nations prepare for and respond to environmental challenges."     
       - name: "Aidan Stamp"
         pronouns: (he/him)
         role: "Lead Marketer"
