@@ -3,143 +3,34 @@ team:
     text: "Meet the EWB CU Ecuador Project Team!"
     section: team
     people:
-      - name: "Caleb Hatch"
+      - name: "Evelyn Radabaugh"
+        pronouns: (she/her)
+        image: assets/img/ecuadorteam/Evelyn_Radabaugh.JPG
+        bio: "Project manager (2023/24). Evelyn is a junior in aerospace engineering. Outside of her work in EWB, she likes to ski, hike, and bake."
+      - name: "Asaiah Gifford"
+        pronouns: (she/her)
+        image: assets/img/ecuadorteam/Asaiah_Gifford.JPG
+        bio: "Chapter Education and Diversity Lead (Spring 2023); Chapter Treasurer (Fall 2023). Asaiah is a third-year Mechanical Engineering student minoring in both Spanish and Global Engineering. She is passionate about incorporating diverse perspectives and cross-cultural understanding into engineering solutions that create positive impacts."
+      - name: "Madison Seckman"
+        pronouns: (she/her)
+        image: assets/img/ecuadorteam/Madison_Seckman.JPG
+        bio: "Fundraising Lead (2022/23, 2023/24). Madison is a junior studying Mechanical and Biomedical Engineering. Outside of EWB, she's worked as a course assistant for a CAD and fabrication course, and is now working for Engineering Connections at Williams Village. In her free time she loves to rock climb, mountain bike, play videogames, cook, and make Spotify playlists."
+      - name: "Emma Thomure"
+        pronouns: (she/her)
+        image: assets/img/ecuadorteam/Emma_Thomure.JPG
+        bio: "Board Liason (2024); Social Media Manager (2022/23). Emma is studying Chemical and Biological Engineering. In her spare time, she likes to rock climb, hike, and watch the sunset."
+      - name: "Maya Henke"
+        pronouns: (she/her)
+        image: assets/img/ecuadorteam/Maya_Henke.JPG
+        bio: "Social Media Manager (2024). Maya is a first-year environmental engineering student. Born and raised in Colorado, she enjoys hiking, rock climbing, and attending concerts."
+      - name: "Daniel Tragarz"
         pronouns: (he/him)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Caleb_Hatch.JPG
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Sascha Fowler"
-        pronouns: (she/her)
-        role: "Lead Designer"
-        image: assets/img/nepalteam/Sascha_Fowler.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-        bio: "Project Manager (2023/24); Field Team (Summer 2024); Design Lead (2021/22). Sascha is a senior studying English and integrated design engineering with an emphasis on mechanical engineering (yes she is an absolutely insane person). She is passionate about WASH and sustainability; outside of school she enjoys music, being epic, and underwater basket weaving (this is what you get for not writing your own bio, Sascha)."
-      - name: "Xilor Morin"
-        pronouns: (they/them) 
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Xilor_Morin.png
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-        bio:  "Project Manager (2023/24). Xilor Morin is a third year in aerospace engineering and applied mathematics. Outside of school, they work on EWB and enjoy reading, writing, and learning other languages. Additionally seen in this photo is Xilor's dog, Xena."
-      - name: "James Perkins"
+        image: assets/img/ecuadorteam/Danny_Tragarz.JPG
+        bio: "Daniel is studying environmental engineering. He is in global engineering, and plans on getting his master's degree in the field. Besides academics, he runs 400m hurdles with the CU track and field team."
+      - name: "Michael McBride"
         pronouns: (he/him)
-        role: "Lead Developer"
-        image: assets/img/nepalteam/James_Perkins.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-        bio: bananas
-      - name: "Anika Mathur"
-        pronouns: (she/her)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Anika_Mathur.JPG
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-        bio: "Treasure and Finance Lead (2023/24, 2024/25). Anika is a third year student studying electrical engineering. Anika enjoys crocheting, reading, and loves to travel the globe."
-      - name: "Bonnie Brudie"
-        pronouns: (she/her)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Bonnie_Brudie.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Elizabeth Tyson"
-        pronouns: (she/her)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Elizabeth_Tyson.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in  
-      - name: "Rachel Perrit"
-        pronouns: (she/her)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Rachel_Peritt.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in           
-      - name: "Matthew Chih"
-        pronouns: (he/him)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Matthew_Chih.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in   
-        bio: "Field Team (Winter 2022/23). Matt is an aerospace engineering graduate student interested in how space-based Earth observations can be utilized to aid developing nations prepare for and respond to environmental challenges."     
-      - name: "Aidan Stamp"
-        pronouns: (he/him)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Aidan_Stamp.png
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in                   
-      - name: "Breeze Kelly"
-        pronouns: (she/her)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Breeze_Kelly.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Carlisle Wilson"
-        pronouns: (she/her)
-        role: "Lead Marketer"
-        image: assets/img/nepalteam/Carlisle_Wilson.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in               
+        image: assets/img/ecuadorteam/Michael_Mcbride.JPG
+        bio: "Michael is a 3rd year student majoring in civil engineering and minoring in Spanish. He is interested in structures and hydrology, and likes to ski and hike in his freetime."
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

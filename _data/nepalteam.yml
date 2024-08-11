@@ -140,7 +140,11 @@ team:
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
-            icon: fab fa-linkedin-in               
+            icon: fab fa-linkedin-in      
+      - name: "Kylie McHugh"
+        pronouns: (she/her)
+        image: assets/img/nepalteam/Kylie_McHugh.jpg
+        bio: "Kylie is a junior mechanical engineering student. She is excited to work with communities across the world through EWB CU on the Nepal project."  
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

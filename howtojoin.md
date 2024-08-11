@@ -12,7 +12,7 @@ permalink: How-to-Join
 
 **Students**
 
-Anyone can join regardless of area of study (including non-STEM majors!) or year. There are two ways to join the team. We have our formal onboarding process which can be started by filling out this form. Alternatively, if you find a particular project you would like to join, feel free to show up to their meetings or reach out to their leadership! Each project is welcoming to newcomers year-round, so don't hesistate to reach out to us if you would like to get involved!
+Anyone can join regardless of area of study (including- no, especially non-STEM majors!) or year. There are two ways to join the team. We have our formal onboarding process which can be started by filling out this form. Alternatively, if you find a particular project you would like to join, feel free to show up to their meetings or reach out to their leadership! Each project is welcoming to newcomers year-round, so don't hesistate to reach out to us if you would like to get involved!
 
 **Professionals**
 

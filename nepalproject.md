@@ -11,7 +11,8 @@ permalink: Nepal-Project
 
 
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.email }} (the “Site”).
+<img src="../../assets/img/nepalteam/gps_workshop.jpg" alt="GNSS Mapping Workshop" width="360"/>
+<img src="../../assets/img/nepalteam/goofy_log.jpg" alt="Students on a log" width="400"/>
 
 **HOW TO JOIN**
 
