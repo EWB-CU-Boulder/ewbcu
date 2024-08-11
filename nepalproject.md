@@ -12,7 +12,7 @@ permalink: Nepal-Project
 
 
 <img src="../../assets/img/nepalteam/gps_workshop.jpg" alt="GNSS Mapping Workshop" width="360"/>
-<img src="../../assets/img/nepalteam/goofy_log.jpg" alt="Students on a log" width="400"/>
+<img src="../../assets/img/nepalteam/goofy_log.png" alt="Students on a log" width="360"/>
 
 **HOW TO JOIN**
 
