@@ -28,3 +28,5 @@ Previously, the team worked in Caserio Totolyá, a community of 110 families loc
 **CONTACT US**
 
 For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+Support our work in Ecuador by checking out our <a href="https://support.ewb-usa.org/team/483990">fundraising page</a>!
