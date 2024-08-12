@@ -4,6 +4,18 @@ team:
     text: "Meet the EWB CU Nepal Project Team!"
     section: team
     people:
+      - name: "Abhiyan Barailee"
+        pronouns: (he/him)
+        role: "Lead Marketer"
+        image: assets/img/nepalteam/Abhiyan_Barailee.JPG
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        bio: "Project Manager (2024/25); Education Lead (Spring 2024). Abhiyan is a third year astrophysics student. He is passionate about understanding the nature of the universe and improving the human condition. Beyond academics, he loves to travel around the world, meet new people, and explore new cultures."
       - name: "Caleb Hatch"
         pronouns: (he/him)
         role: "Lead Marketer"

@@ -73,7 +73,7 @@ board:
     people:
       - name: "Sascha Fowler"
         role: "Lead Designer"
-        image: assets/img/board/Sascha.jpeg
+        image: assets/img/board/sascha_board_pic.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
