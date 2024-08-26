@@ -10,7 +10,7 @@
     <div class="row">
 	{% for event in site.events %}
       <div class="col-md-4 col-sm-6 events-item">
-        <a class="events-link" data-toggle="modal" href="#{{ event.permalink }}">
+        <a class="events-link" href="{{ event.permalink }}">
           <div class="events-hover">
             <div class="events-hover-content">
               <i class="fas fa-plus fa-3x"></i> 
@@ -33,34 +33,3 @@
     <div class="row">
   </div>
 </section>
-
-<!-- Events Modals -->
-{% for event in site.events %}
-  <div class="events-modal modal fade" id="{{ event.permalink }}" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-          <div class="lr">
-            <div class="rl"></div>
-          </div>
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 mx-auto">
-              <div class="modal-body">
-                <!-- event Details Go Here -->
-                <h2 class="text-uppercase">{{ event.title }}</h2>
-                <p class="item-intro text-muted">{{ event.subtitle }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ event.image }}" alt="{{ project.alt }}">
-				        <p>{{ event.content }}</p>		
-                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                  <i class="fas fa-times"></i>
-                  Close Project</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-{% endfor %}

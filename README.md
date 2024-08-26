@@ -78,3 +78,9 @@ To set up your environment to develop this theme, clone this repo, then run `bun
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+To do
+
+image in tab?
+reactivity

@@ -94,7 +94,7 @@ board:
             icon: fab fa-linkedin-in
       - name: "Eli Garcia"
         role: "Lead Developer"
-        image: assets\img\board\jake_board_pic.jpg
+        image: assets\img\board\eli_board_pic.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
