@@ -20,7 +20,7 @@
         opacity: 0;
         background: fade-out($primary, .1);
         &:hover {
-          opacity: 1;
+          opacity: .9;
         }
         .events-hover-content {
           font-size: 20px;
