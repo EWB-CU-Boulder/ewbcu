@@ -11,7 +11,7 @@ events:
     
 blog:
     title: "Blog & News"
-    text: "Read the latest stories of EWB CU"
+    text:
     section: blog
 
 timeline:
