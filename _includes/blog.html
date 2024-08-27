@@ -8,53 +8,22 @@
       </div>
     </div>
     <div class="row">
-	{% for story in site.blog %}
-      <div class="col-md-4 col-sm-6 blog-item">
-        <a class="blog-link" data-toggle="modal" href="#{{ story.link }}">
+	{% for writing in site.blog %}
+      <div class="col-md-4 col-sm-6 blog-story">
+        <a class="blog-link" href="{{ writing.permalink }}">
           <div class="blog-hover">
             <div class="blog-hover-content">
               <i class="fas fa-plus fa-3x"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ story.caption.thumbnail }}" alt="">
+          <img class="img-fluid" src="{{ writing.caption.thumbnail }}" alt="">
         </a>
         <div class="blog-caption">
-          <h4>{{ story.caption.title }}</h4>
-          <p class="text-muted">{{ story.caption.subtitle }}</p>
+          <h4>{{ writing.caption.title }}</h4>
+          <p class="text-muted">{{ writing.caption.subtitle }}</p>
         </div>
       </div>
 	{% endfor %}
     </div>
   </div>
 </section>
-
-<!-- Blog Modals -->
-{% for story in site.blog %}
-  <div class="blog-modal modal fade" id="{{ story.link }}" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-          <div class="lr">
-            <div class="rl"></div>
-          </div>
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 mx-auto">
-              <div class="modal-body">
-                <!-- story Details Go Here -->
-                <h2 class="text-uppercase">{{ story.title }}</h2>
-                <p class="item-intro text-muted">{{ story.subtitle }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ story.image }}" alt="{{ story.alt }}">
-				<p>{{ story.content }}</p>		
-                <button class="btn btn-primary" data-dismiss="modal" type="button">
-                  <i class="fas fa-times"></i>
-                  Close Story</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-{% endfor %}
