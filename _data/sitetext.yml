@@ -1,8 +1,6 @@
 header:
     text: Engineers,
     text2: For the World.
-    #button: Tell Me More
-    #buttonlink: "#services"
 
 events:
     title: "Events"
@@ -47,7 +45,10 @@ timeline:
 
 about:
     title: "About Us"
-    text: "our story"
+    text: "Engineers Without Borders-USA was founded in 2002 at the University of Colorado Boulder by Professor Bernard 
+    Amadei. founded  with the goal of creating positive change for developing communities through the combined efforts of 
+    students, faculty, professional engineers and community members. The CU chapter was the first in the organization that 
+    has now grown to include EWB-USA and has 206 chapters and 130+ projects in 34 countries, with 4000+ members."
     section: about
 
 clients:

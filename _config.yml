@@ -36,6 +36,10 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 collections:
   events:
   blog:
+  articles:
+  dates:
+
+include: ['_articles','_dates']
 
 markdown: kramdown
 

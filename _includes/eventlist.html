@@ -1,0 +1,26 @@
+<section class="page-section" id="eventlist">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase" style="color: black;">Events</h2>
+      </div>
+    </div>
+    <div class="row">
+    {% for date in site.dates %}
+        <div class="col-md-4 col-sm-6 eventlist-item">
+            <a href="{{ date.url }}">{{date.title}}</a>
+            <a class="eventlist-link" href="{{ date.permalink }}">
+              <div class="eventlist-hover">
+                <div class="eventlist-hover-content">
+                </div>
+              </div>
+              <img class="img-fluid" src="{{ date.caption.thumbnail }}" alt="">
+            </a>
+            <div class="eventlist-caption">
+              <h4>{{ date.caption.title }}</h4>
+              <p class="text-muted">{{ date.caption.date_location }}</p>
+            </div>
+        </div>
+    {% endfor %}  
+  </div>
+</section>

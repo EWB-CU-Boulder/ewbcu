@@ -1,7 +1,7 @@
 // Styling for the masthead
 header.masthead {
   text-align: left;
-  color: white;
+  color:#698d4ac6;
   .bg-video {
     position: absolute;
     top: 0;
@@ -23,6 +23,7 @@ header.masthead {
   .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    color: white;
     .intro-heading {
       font-size: 100px;
       font-weight: 500px;

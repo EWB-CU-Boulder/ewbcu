@@ -3,7 +3,7 @@ title: EWB CU Chapter Kickoff Meeting
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: ../assets/img/events/02-thumbnail.jpg
 alt: Keep Exploring
-permalink: test-copy-2
+permalink: test
 
 caption:
   title: EWB at the Be Involved Fair
