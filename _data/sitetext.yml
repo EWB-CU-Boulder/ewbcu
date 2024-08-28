@@ -132,11 +132,11 @@ contact:
 footer:
     email: "ewb.cu.chapter@gmail.com"
     social:
-      - url: https://facebook.com
+      - url: https://www.facebook.com/EWBCU/
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://instagram.com
+#      - url: https://linkedin.com
+#        icon: "fab fa-linkedin-in"
+      - url: https://www.instagram.com/ewbusacu/
         icon: "fab fa-instagram"
 
 

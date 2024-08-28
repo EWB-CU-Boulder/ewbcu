@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Lol
-permalink: "/test2"
+permalink: "/EWB-at-Be-Involved-Fair"
 
 caption:
-  title: EWB at the Be Involved Fair
+  title: EWB @ Be Involved Fair
   date_location: August 28, 2-6pm @ Farrand Field
-  thumbnail: ../assets/img/events/02-thumbnail.jpg
+  thumbnail: ../assets/img/events/EWB_tabling.jpg
 ---
 
 Hello
