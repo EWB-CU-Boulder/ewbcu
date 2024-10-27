@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/Chapter-Kickoff-Meeting"
+permalink: "/ewbcu/Chapter-Kickoff-Meeting"
 
 caption:
   title: Chapter Kickoff Meeting
@@ -22,4 +22,4 @@ EWB CU IS BACK FOR 2024!!! We are so excited to kickoff the year by showcasing o
 
 Note: We are still determining the location of this event, stay tuned for more info!
 
-<a href="/events"><u>Back to events</u></a>
+<a href="/ewbcu/events"><u>Back to events</u></a>
