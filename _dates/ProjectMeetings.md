@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/ewbcu/project-meetings"
+permalink: "ewbcu/project-meetings"
 
 caption:
   title: Weekly Project Meetings
