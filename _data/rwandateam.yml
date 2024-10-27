@@ -76,7 +76,7 @@ team:
       - name: "Jacqueline Hall"
         pronouns: (she/her)
         role: "Lead Marketer"
-        image: assets/img/rwandateam/Jacqueline_Hall.jpg
+        image: assets/img/rwandateam/Jacqueline_Hall.JPG
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -86,7 +86,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Andy Rusin"
         pronouns: (he/him)
-        image: assets/img/rwandateam/Andrew_Rusin.jpg
+        image: assets/img/rwandateam/Andrew_Rusin.JPG
         bio: "Andy is a second year electrical engineering student. Outside of coursework, he loves collecting records and listening to music, as well as hanging out with his friends and having good conversations."
 
 
