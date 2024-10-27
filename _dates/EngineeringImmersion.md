@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/Engineering-Immersion"
+permalink: "/ewbcu/Engineering-Immersion"
 
 caption:
   title: Engineering Immersion
