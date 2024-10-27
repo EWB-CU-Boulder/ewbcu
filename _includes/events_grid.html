@@ -10,7 +10,7 @@
     <div class="row">
 	{% for event in site.events %}
       <div class="col-md-4 col-sm-6 events-item">
-        <a class="events-link" href="{{ event.permalink }}">
+        <a class="events-link" href="{{ event.permalink | relative_url }}">
           <div class="events-hover">
             <div class="events-hover-content">
               <i class="fas fa-plus fa-3x"></i> 

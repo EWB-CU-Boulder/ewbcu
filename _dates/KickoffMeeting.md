@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/ewbcu/Chapter-Kickoff-Meeting"
+permalink: "/Chapter-Kickoff-Meeting"
 
 caption:
   title: Chapter Kickoff Meeting
