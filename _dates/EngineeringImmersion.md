@@ -5,10 +5,10 @@ permalink: "/Engineering-Immersion"
 caption:
   title: Engineering Immersion
   date_location: September 5, 3-6pm @ Herbst Plaza
-  thumbnail: ../assets/img/events/Engineering_Immersion.jpg
+  thumbnail: ./assets/img/events/Engineering_Immersion.jpg
 ---
 
-<img src="../assets/img/events/Engineering_Immersion.jpg" alt="Engineering Immersion" width="400"/>
+<img src="./assets/img/events/Engineering_Immersion.jpg" alt="Engineering Immersion" width="400"/>
 
 <div>
 	<h2 class="section-heading text-uppercase">Engineering Immersion</h2>

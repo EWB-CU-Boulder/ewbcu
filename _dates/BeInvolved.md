@@ -5,10 +5,10 @@ permalink: "/EWB-at-Be-Involved-Fair"
 caption:
   title: EWB @ Be Involved Fair
   date_location: August 28, 2-6pm @ Farrand Field
-  thumbnail: ../assets/img/events/EWB_tabling.jpg
+  thumbnail: ./assets/img/events/EWB_tabling.jpg
 ---
 
-<img src="../assets/img/events/EWB_tabling.jpg" alt="Be involved fair" width="400"/>
+<img src="./assets/img/events/EWB_tabling.jpg" alt="Be involved fair" width="400"/>
 
 <div>
 	<h2 class="section-heading text-uppercase">EWB @ Be Involved Fair</h2>

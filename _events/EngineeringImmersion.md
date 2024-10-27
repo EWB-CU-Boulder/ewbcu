@@ -1,5 +1,5 @@
 ---
-permalink: "/Engineering-Immersion"
+permalink: "/ewbcu/Engineering-Immersion"
 caption:
   title: Engineering Immersion
   date_location: September 5, 3-6pm @ Herbst Plaza
