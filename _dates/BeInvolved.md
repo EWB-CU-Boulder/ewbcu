@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/ewbcu/EWB-at-Be-Involved-Fair"
+permalink: "/EWB-at-Be-Involved-Fair"
 
 caption:
   title: EWB @ Be Involved Fair

@@ -8,7 +8,7 @@
     <div class="row">
     {% for date in site.dates %}
         <div class="col-md-4 col-sm-6 eventlist-item">
-            <a class="eventlist-link" href="{{ date.permalink }}">
+            <a class="eventlist-link" href="{{ date.permalink | relative_url }}">
               <div class="eventlist-hover">
                 <div class="eventlist-hover-content">
                 </div>
