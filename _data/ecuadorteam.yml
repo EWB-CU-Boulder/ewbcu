@@ -5,7 +5,7 @@ team:
     people:
       - name: "Evelyn Radabaugh"
         pronouns: (she/her)
-        image: assets/img/ecuadorteam/Evelyn_Radabaugh.JPG
+        image: assets/img/ecuadorteam/Evelyn_Radabaugh.jpg
         bio: "Project manager (2023/24). Evelyn is a junior in aerospace engineering. Outside of her work in EWB, she likes to ski, hike, and bake."
       - name: "Asaiah Gifford"
         pronouns: (she/her)
@@ -13,19 +13,19 @@ team:
         bio: "Chapter Education and Diversity Lead (Spring 2023); Chapter Treasurer (Fall 2023). Asaiah is a third-year Mechanical Engineering student minoring in both Spanish and Global Engineering. She is passionate about incorporating diverse perspectives and cross-cultural understanding into engineering solutions that create positive impacts."
       - name: "Madison Seckman"
         pronouns: (she/her)
-        image: assets/img/ecuadorteam/Madison_Seckman.JPG
+        image: assets/img/ecuadorteam/Madison_Seckman.jpg
         bio: "Fundraising Lead (2022/23, 2023/24). Madison is a junior studying Mechanical and Biomedical Engineering. Outside of EWB, she's worked as a course assistant for a CAD and fabrication course, and is now working for Engineering Connections at Williams Village. In her free time she loves to rock climb, mountain bike, play videogames, cook, and make Spotify playlists."
       - name: "Emma Thomure"
         pronouns: (she/her)
-        image: assets/img/ecuadorteam/Emma_Thomure.JPG
+        image: assets/img/ecuadorteam/Emma_Thomure.jpg
         bio: "Board Liason (2024); Social Media Manager (2022/23). Emma is studying Chemical and Biological Engineering. In her spare time, she likes to rock climb, hike, and watch the sunset."
       - name: "Maya Henke"
         pronouns: (she/her)
-        image: assets/img/ecuadorteam/Maya_Henke.JPG
+        image: assets/img/ecuadorteam/Maya_Henke.jpg
         bio: "Social Media Manager (2024). Maya is a first-year environmental engineering student. Born and raised in Colorado, she enjoys hiking, rock climbing, and attending concerts."
       - name: "Daniel Tragarz"
         pronouns: (he/him)
-        image: assets/img/ecuadorteam/Danny_Tragarz.JPG
+        image: assets/img/ecuadorteam/Danny_Tragarz.jpg
         bio: "Daniel is studying environmental engineering. He is in global engineering, and plans on getting his master's degree in the field. Besides academics, he runs 400m hurdles with the CU track and field team."
       - name: "Michael McBride"
         pronouns: (he/him)
