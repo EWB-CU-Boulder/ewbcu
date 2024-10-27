@@ -11,9 +11,9 @@ permalink: Nepal-Project
 
 In January of 2024, we established our first sister chapter partnership with EWB-Nepal Pulchowk campus! We are so excited to start working with them in the future as we 
 
-<img src="../../assets/img/nepalteam/gps_workshop.jpg" alt="GNSS Mapping Workshop" width="370"/>
-<img src="../../assets/img/nepalteam/goofy_log.png" alt="Students on a log" width="370"/>
-<img src="../../assets/img/nepalteam/patan_temples.jpg" alt="Ancient temple" width="320"/>
+<img src="./assets/img/nepalteam/gps_workshop.jpg" alt="GNSS Mapping Workshop" width="370"/>
+<img src="./assets/img/nepalteam/goofy_log.png" alt="Students on a log" width="370"/>
+<img src="./assets/img/nepalteam/patan_temples.jpg" alt="Ancient temple" width="320"/>
 
 
 **HOW TO JOIN**

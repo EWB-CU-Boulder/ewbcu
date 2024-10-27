@@ -8,7 +8,7 @@ caption:
   thumbnail: ../assets/img/events/rwanda_meeting_pic.jpg
 ---
 
-<img src="../../assets/img/events/rwanda_meeting_pic.jpg" alt="Rwanda Meeting" width="400"/>
+<img src="../assets/img/events/rwanda_meeting_pic.jpg" alt="Rwanda Meeting" width="400"/>
 
 <div>
 	<h2 class="section-heading text-uppercase">Weekly Project Meetings</h2>

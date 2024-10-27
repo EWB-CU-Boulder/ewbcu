@@ -8,7 +8,7 @@ caption:
   thumbnail: ../assets/img/events/Engineering_Immersion.jpg
 ---
 
-<img src="../../assets/img/events/Engineering_Immersion.jpg" alt="Engineering Immersion" width="400"/>
+<img src="../assets/img/events/Engineering_Immersion.jpg" alt="Engineering Immersion" width="400"/>
 
 <div>
 	<h2 class="section-heading text-uppercase">Engineering Immersion</h2>

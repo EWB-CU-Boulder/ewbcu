@@ -8,7 +8,7 @@ caption:
   thumbnail: ../assets/img/events/Chapter_meeting.jpg
 ---
 
-<img src="../../assets/img/events/Chapter_meeting.jpg" alt="Chapter Kickoff" width="400"/>
+<img src="../assets/img/events/Chapter_meeting.jpg" alt="Chapter Kickoff" width="400"/>
 
 <div>
 	<h2 class="section-heading text-uppercase">Chapter-wide Kickoff Event</h2>

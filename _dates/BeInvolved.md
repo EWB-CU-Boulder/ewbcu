@@ -8,7 +8,7 @@ caption:
   thumbnail: ../assets/img/events/EWB_tabling.jpg
 ---
 
-<img src="../../assets/img/events/EWB_tabling.jpg" alt="Be involved fair" width="400"/>
+<img src="../assets/img/events/EWB_tabling.jpg" alt="Be involved fair" width="400"/>
 
 <div>
 	<h2 class="section-heading text-uppercase">EWB @ Be Involved Fair</h2>
