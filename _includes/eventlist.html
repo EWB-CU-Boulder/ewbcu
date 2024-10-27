@@ -15,7 +15,7 @@
               </div>
               <img class="img-fluid" src="{{ date.caption.thumbnail }}" alt="">
             </a>
-            <a href="{{ date.url }}">
+            <a href="{{ date.url | relative_url  }}">
             <div class="eventlist-caption">
               <h4>{{ date.caption.title }}</h4>
               <p class="text-muted">{{ date.caption.date_location }}</p>
