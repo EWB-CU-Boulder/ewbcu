@@ -11,8 +11,9 @@ header.nepalhead {
     .nepalhead-text {
       padding-top: 100px;
       padding-bottom: 50px;
+      font-weight: 600;
       .nepal-heading {
-        font-size: 100px;
+        font-size: 50px;
         font-weight: 500px;
         line-height: 50px;
         margin-bottom: 25px;
@@ -43,3 +44,33 @@ header.nepalhead {
       }
     }
   }
+@media(max-width:575px) {
+  header.nepalhead {
+    background-size: contain;
+    background-position: top;
+    .nepalhead-text {
+      padding-top: 140px;
+      padding-bottom: 30px;
+    }
+  } 
+}
+@media(max-width:768px) and (min-width: 701px) {
+  header.nepalhead {
+    background-size: contain;
+    background-position: top;
+    .nepalhead-text {
+      padding-top: 270px;
+      padding-bottom: 30px;
+    }
+  } 
+}
+@media(max-width:700px) and (min-width: 576px) {
+  header.nepalhead {
+    background-size: contain;
+    background-position: top;
+    .nepalhead-text {
+      padding-top: 200px;
+      padding-bottom: 30px;
+    }
+  } 
+}

@@ -11,8 +11,9 @@ header.rwandahead {
     .rwandahead-text {
       padding-top: 100px;
       padding-bottom: 50px;
+      font-weight: 600;
       .rwanda-heading {
-        font-size: 100px;
+        font-size: 50px;
         font-weight: 500px;
         line-height: 50px;
         margin-bottom: 25px;
@@ -42,4 +43,44 @@ header.rwandahead {
         }
       }
     }
+  }
+  @media(max-width:768x) and (min-width: 691px) {
+    header.rwandahead {
+      background-size: contain;
+      background-position: top;
+      .rwandahead-text {
+        padding-top: 300px;
+        padding-bottom: 30px;
+      }
+    } 
+  }
+  @media(max-width:575px) {
+    header.rwandahead {
+      background-size: contain;
+      background-position: top;
+      .rwandahead-text {
+        padding-top: 140px;
+        padding-bottom: 30px;
+      }
+    } 
+  }
+  @media(max-width:690px) and (min-width: 651px) {
+    header.rwandahead {
+      background-size: contain;
+      background-position: top;
+      .rwandahead-text {
+        padding-top: 270px;
+        padding-bottom: 30px;
+      }
+    } 
+  }
+  @media(max-width:650px) and (min-width: 576px) {
+    header.rwandahead {
+      background-size: contain;
+      background-position: top;
+      .rwandahead-text {
+        padding-top: 200px;
+        padding-bottom: 30px;
+      }
+    } 
   }
