@@ -24,3 +24,22 @@ section#contact {
     }
   }
 }
+
+@media (min-width:1700px) {
+  * {
+    section#contact {
+      padding-left: 2%;
+      padding-right: 0%;
+      padding-top: 0;
+      padding-bottom: 40px;
+      .section-heading {
+        font-size: 15px;
+        margin-bottom: 14px;
+        margin-top: 25px;
+      }
+      .directory-group {
+        font-size: 8px;
+      }
+    }
+  }
+}

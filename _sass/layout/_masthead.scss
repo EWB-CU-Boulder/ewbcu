@@ -44,14 +44,31 @@ header.masthead {
         line-height: normal;
         margin-bottom: -50px;
         @include heading-font;
+        font-style: italic;
       }
       .intro-heading2 {
         font-size: 75px;
         font-weight: 600;
         line-height: normal;
         margin-bottom: -50px;
-        margin-left: 50px;
         @include heading-font;
+        font-style: italic;
+      }
+    }
+  }
+}
+
+@media(min-width:1700px) {
+  header.masthead {
+    .intro-text {
+      padding-top: 360px;
+      padding-bottom: 0px;
+      .intro-heading {
+        font-size: 45px;
+        margin-bottom: -35px;
+      }
+      .intro-heading2 {
+        font-size: 45px;
       }
     }
   }

@@ -82,3 +82,49 @@
   }
   }
 }
+
+@media(min-width:1700px) {
+  #mainNav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    background-color: transparent;
+    .navbar-brand {
+      font-size: 1em;
+      .logo {    
+        height: 90%;
+        width: 90%;
+      }
+    }
+    .navbar-nav {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      .nav-item {
+        .nav-link {
+          white-space: nowrap;
+        }
+      }
+    }
+    &.navpage-shrink {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background-color: #243274;
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          font-size: 70%;
+          white-space: nowrap;
+        }
+      }
+    }
+    .navbar-brand {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      .logo {    
+        height: 25%;
+        width: 25%;
+      }
+    }
+  }
+  }
+}

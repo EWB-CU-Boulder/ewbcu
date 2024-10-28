@@ -53,6 +53,30 @@ h6 {
   }
 }
 
+@media (min-width:1700px) {
+  * {
+    zoom: 110%;
+    .page-section {
+      padding: 100px 0;
+      font-size: 12px;
+      h2.section-heading {
+        font-size: 30px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+      h3.section-subheading {
+        margin-top: 40px;
+        font-size: 16px;
+        font-weight: 400;
+        font-style: italic;
+        margin-bottom: 75px;
+        text-transform: none;
+        @include serif-font;
+      }
+    }
+  }
+}
+
 // Highlight color customization
 ::-moz-selection {
   background: $gray-900;
