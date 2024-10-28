@@ -16,8 +16,8 @@ Anyone can join regardless of area of study (including- no, especially non-STEM 
 
 **Professionals**
 
-Our projects rely on the input and guidance of our team of mentors. Additionally, . If you would be interested in, please feel free to reach out to us! Specific projec, otherwise .
+Our projects rely on the input and guidance of our team of mentors. We actively recruit professionals for orgnaizational guidance, engineering expertise, and travel mentorship. If you would be interested in being involved with our team, please reach out to us! If you are interested in a specific project, feel free to reach out to them directly; otherwise, reach out to our chapter email for more info!
 
 **Organizations and Corporations**
 
-We love working with . Please contact us by our chapter email: .
+Our work is made possible by the generous support of several organizations and corporations. Those who would like to be involved with our team should contact us by our chapter email: . We look forward to working with you!

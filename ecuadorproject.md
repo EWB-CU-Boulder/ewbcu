@@ -24,10 +24,10 @@ Previously, the team worked in Caserio Totolyá, a community of 110 families loc
 
 **HOW TO JOIN**
 
-
+The Ecuador project currently meets Tuesdays at 7:00pm in ECCR 110!
 
 **CONTACT US**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+For more information or if you have questions, please contact us by email at <a href="mailto:ewbcuguatemalapm@gmail.com}">ewbcuguatemalapm@gmail.com</a>.
 
 Support our work in Ecuador by checking out our <a href="https://support.ewb-usa.org/team/483990">fundraising page</a>!

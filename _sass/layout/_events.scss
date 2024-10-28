@@ -1,6 +1,6 @@
 // Styling for the events section
 #events {
-  background-color: #698d4ac6;
+  background-color: #556b44c6;
   .events-item {
     right: 0;
     margin: 0 0 15px;
@@ -70,6 +70,34 @@
     }
   }
 }
+
+
+@media(min-width:1400px) {
+  #events {
+    .events-item {
+      .events-caption {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 25px;
+        text-align: center;
+        background-color: $white;
+        h4 {
+          margin: 0;
+          text-transform: none;
+          font-size: 15px;
+        }
+        p {
+          padding-top: 5px;
+          font-size: 10px;
+          font-style: italic;
+          margin: 0;
+          @include serif-font;
+        }
+      }
+    }
+  }
+}
+
 
 @media(min-width:1700px) {
   #events {

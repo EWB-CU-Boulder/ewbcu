@@ -1,6 +1,6 @@
 // Styling for the blog section
 #blog {
-  background-color: #698d4ac6;
+  background-color: #556b44c6;
   padding-top: 0px;
   padding-bottom: 50px;
   .blog-story {
@@ -73,3 +73,28 @@
   }
 }
 
+@media(min-width:1700px) {
+  #blog {
+    .blog-story {
+      .blog-caption {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 25px;
+        text-align: center;
+        background-color: $white;
+        h4 {
+          margin: 0;
+          text-transform: none;
+          font-size: 16px;
+        }
+        p {
+          padding-top: 5px;
+          font-size: 10px;
+          font-style: italic;
+          margin: 0;
+          @include serif-font;
+        }
+      }
+    }
+  }
+}

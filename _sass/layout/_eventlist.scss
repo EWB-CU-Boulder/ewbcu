@@ -74,3 +74,26 @@
     }
   }
 }
+
+@media(min-width:1700px) {
+  #eventlist {
+    .eventlist-item {
+      .eventlist-caption {
+        max-width: 400px;
+        padding-top: 10px;
+        text-align: center;
+        background-color: $white;
+        h4 {
+          text-transform: none;
+          font-size: 14px;
+        }
+        p {
+          padding-top: 5px;
+          font-size: 10px;
+          font-style: italic;
+          @include serif-font;
+        }
+      }
+    }
+  }
+}

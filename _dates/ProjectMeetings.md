@@ -10,7 +10,7 @@ caption:
 
 <img src="./assets/img/events/rwanda_meeting_pic.JPG" alt="Rwanda Meeting" width="400"/>
 
-<div>
+<div style="margin-top:-10px">
 	<h2 class="section-heading text-uppercase">Weekly Project Meetings</h2>
 </div>
 
@@ -24,11 +24,11 @@ So you've decided to join the EWB CU family... now you just need to choose a pro
 
 **Domestic Project**: TBA
 
-**Ecuador Project**: TBA
+**Ecuador Project**: Tuesdays, 7:00-8:00pm @ ECCR 110
 
-**Nepal Project**: TBA
+**Nepal Project**: Thursdays, 6:30-7:30pm @ ECCR 118
 
-**Rwanda Project**: TBA
+**Rwanda Project**: Wednesdays, 6:30-7:30pm @ ECCR 118
 
 For any general chapter questions, please email <a href="mailto:ewb.cu.chapter@gmail.com">ewb.cu.chapter@gmail.com</a>.
 
